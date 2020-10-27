@@ -1,0 +1,13 @@
+
+/* Comentarios */
+html, body {
+    background-color: burlywood;
+}
+
+/* damos estilo a las CARTAS */
+.logo {
+    position: relative;
+    width: 550px;
+    left: 100px;
+    margin-left: -95px;
+}

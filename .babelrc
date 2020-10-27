@@ -1,0 +1,15 @@
+{
+    "presets": ["@babel/preset-env", "minify"]
+}
+
+// Esto decía la documentación https://babeljs.io/docs/en/babel-preset-env 
+// {
+//     "presets": ["minify",
+//       [
+//         "@babel/preset-env",
+//         {
+//           "useBuiltIns": "entry"
+//         }
+//       ]
+//     ]
+//   }
