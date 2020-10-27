@@ -9,7 +9,7 @@ export const saludar = ( nombre ) => {
     console.log ('Creando etiqueta h1 - con WebPack');
 
     const h1 = document.createElement('h1');
-    h1.innerText = `Sure, ${ nombre }`;
+    h1.innerText = `Cascarón, ${ nombre }`;
     document.body.append(h1);
 }
 
